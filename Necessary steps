@@ -1,0 +1,17 @@
+Steps :
+1)Download top conversion path data in csv format from Google Analytics for a specific date range (Conversions > Multichannel Funnels > Top Conversion Paths) 
+
+2)Make sure you have selected all the rows while downloading the data
+
+3)You can keep the filters as per your report requirement
+
+4)After downloading the data remove first few unnecessary and blank rows
+
+For e.g.
+-Blank Rows with ###----------------
+-Name of the view
+-Date Range
+
+5)	Data Cleaning part includes removing spaces from your first columns and converting conversions and revenue column into general format, which also includes removing currency symbol and commas
+
+6)	After cleaning part you can jump into R and follow the steps mentioned in comments
