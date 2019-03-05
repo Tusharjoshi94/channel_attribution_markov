@@ -15,4 +15,3 @@ Markov Model gives 3 major results:
 - Channel Contribution: Unlike other attribution models, Markov model uses a probabilistic approach to give credit of each conversion to each channel. This is usually known as weighted imputation.
 
 Weighted Imputation of Channel X=Total Conversions ×(Removal effect of channel X)/(Total Removal Effect of all channels) 
-
